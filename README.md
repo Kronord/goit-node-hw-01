@@ -1,2 +1,2 @@
 # goit-node-hw-01
-Homework
+Посилання на зображення виконаноъ роботи: https://ibb.co/album/RvVvdd
